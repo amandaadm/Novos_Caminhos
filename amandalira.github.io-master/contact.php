@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <meta name="author" content="Amanda Lira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="description" content="Portifólio de trabalhos realizados de Amanda Lira" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -37,11 +37,11 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile.JPG" alt="Amanda Lira">
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Amanda Lira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <div class="status">Desenvolvedora WEB</div>
                         <ul class="header__social">
                             <li>
                                 <a href="https://www.linkedin.com/in/amandalira/">
@@ -49,13 +49,8 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/amandaadm">
                                     <i class="font-icon icon-github"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
@@ -169,7 +164,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Amanda Lira</footer>
                 </div>
             </div>
         </div>
