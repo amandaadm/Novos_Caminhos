@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
+    <meta name="author" content="Amanda Lira" />
     <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
@@ -40,11 +40,11 @@
                         <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
+                        <h4 class="title titl--h4">Amanda Lira</h4>
                         <div class="status">Desenvolvedor WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/amandalira/">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
@@ -59,7 +59,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/AmandaL43932234">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
