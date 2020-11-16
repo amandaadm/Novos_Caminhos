@@ -1,2 +1,1 @@
-# amandalira.github.io
-# amandalira.github.io
+# amandaadm.github.io
