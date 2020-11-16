@@ -1,4 +1,4 @@
-"# amandalira.github.io"
-http://amandalira.github.io/
+"# amandaadm.github.io"
+http://amandaadm.github.io/
 
 Página criada em html, css, javascript e php com o objetivo de construir uma página de portfólio.
